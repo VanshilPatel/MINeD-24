@@ -172,22 +172,17 @@ function Developers() {
     {
       name: "Priyang Desai",
       image: "/priyang.jpeg",
-      linkedIn: "https://www.linkedin.com/in/naitik554/",
+      linkedIn: "https://www.linkedin.com/in/priyang-desai1310",
     },
     {
-      name: "Kiran Kher",
-      image: "kiran_kher.jpg",
-      linkedIn: "https://www.linkedin.com/in/naitik554/",
+      name: "Jaimin Salvi",
+      image: "/jaimin.jpeg",
+      linkedIn: "https://www.linkedin.com/in/jaimin-salvi-6786442a6/?trk=contact-info",
     },
     {
-      name: "Shubh Patel",
-      image: "shubh_patel.jpg",
-      linkedIn: "https://www.linkedin.com/in/naitik554/",
-    },
-    {
-      name: "Kajal Lochab",
-      image: "/Kajal_Lochab.jpg",
-      linkedIn: "https://www.linkedin.com/in/naitik554/",
+      name: "Het Chaudhari",
+      image: "/het.jpeg",
+      linkedIn: "https://www.linkedin.com/in/het-chaudhari-70288728a/",
     },
   ];
   return (
