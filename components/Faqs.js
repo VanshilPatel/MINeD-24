@@ -114,7 +114,7 @@ export default function Faqs() {
         },
         {
           q: "What is the procedure to cancel the registration?",
-          a: "If you feel that you will not be able to participate in the event after registering, just throw an email at sapanmankad@nirmauni.ac.in stating the same.",
+          a: "If you feel that you will not be able to participate in the event after registering, just send an email at vishalparikh@nirmauni.ac.in stating the same.",
         },
       ],
     },
@@ -135,7 +135,7 @@ export default function Faqs() {
         },
         {
           q: "Only students that belong to same College/ Branch can form a team?",
-          a: "No. A team can consist of members belonging to any college as well as any discipline. However, every team member needs to be individually registeblue before forming a team.",
+          a: "No. A team can consist of members belonging to any college as well as any discipline. However, every team member needs to be individually registered before forming a team.",
         },
         {
           q: "Can I be part of two teams?",
@@ -160,7 +160,7 @@ export default function Faqs() {
           a: "Track specific prize money depends on industries sponsoring specific track.",
         },
         {
-          q: "Will there be any perks offeblue to me for participating in the event?",
+          q: "Will there be any perks offered to me for participating in the event?",
           a: "In addition to gaining experience in working with peers in a competitive environment on real life problems, our sponsor partners are offering exciting perks / complementary product subscriptions to winners and/or participants. ",
         },
         {
@@ -179,7 +179,7 @@ export default function Faqs() {
         {
           q: "My query is not listed in this FAQs section. What should I do?",
           type: "HTML",
-          a: 'Please write to us at <a href="mailto:sapanmankad@nirmauni.ac.in" style="border-bottom:2px solid black;"> sapanmankad@nirmauni.ac.in </a> or join us on our social media platform.',
+          a: 'Please write to us at <a href="mailto:vishalparikh@nirmauni.ac.in" style="border-bottom:2px solid black;"> vishalparikh@nirmauni.ac.in </a> or join us on our social media platform.',
         },
       ],
     },
