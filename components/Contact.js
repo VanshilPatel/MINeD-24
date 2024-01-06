@@ -55,11 +55,11 @@ export default function contact() {
                         variant="ghost"
                         color="#DCE2FF"
                         as={"a"}
-                        href={"mailto:sapanmankad@nirmauni.ac.in"}
+                        href={"mailto:vishalparikh@nirmauni.ac.in"}
                         _hover={{ bgColor: "blue.900" }}
                         leftIcon={<MdEmail color="#1970F1" size="20px" />}
                       >
-                        sapanmankad@nirmauni.ac.in
+                        vishalparikh@nirmauni.ac.in
                       </Button>
                       <Button
                         justifyContent={"start"}
@@ -67,11 +67,11 @@ export default function contact() {
                         variant="ghost"
                         color="#DCE2FF"
                         as={"a"}
-                        href={"mailto:coe.ds@nirmauni.ac.in"}
+                        href={"mailto:rupal.kapdi@nirmauni.ac.in"}
                         _hover={{ bgColor: "blue.900" }}
                         leftIcon={<MdEmail color="#1970F1" size="20px" />}
                       >
-                        coe.ds@nirmauni.ac.in
+                        rupal.kapdi@nirmauni.ac.in
                       </Button>
                     </VStack>
                   </Box>
@@ -143,7 +143,7 @@ export default function contact() {
                           color="white"
                           _hover={{}}
                           as={"a"}
-                          href={`mailto:sapanmankad@nirmauni.ac.in?subject=${encodeURI(
+                          href={`mailto:vishalparikh@nirmauni.ac.in?subject=${encodeURI(
                             contactDetails.name
                           )}&body=${encodeURI(contactDetails.desc)}`}
                         >
