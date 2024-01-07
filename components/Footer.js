@@ -33,7 +33,7 @@ export default function Footer() {
             </Link>
           </li>
           <li>
-            <Link href={"mailto:sapanmankad@nirmauni.ac.in"} target="_blank">
+            <Link href={"mailto:vishalparikh@nirmauni.ac.in"} target="_blank">
               <MdEmail />
             </Link>
           </li>
