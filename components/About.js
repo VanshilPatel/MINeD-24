@@ -97,7 +97,7 @@ export default function About() {
           <Text paddingBlock={4} textIndent={32} textAlign={"justify"}>
             The Center of Excellence in Data Science, CSE department, Institute
             of Technology, Nirma University presents 48 hours long hackathon
-            from March 3 to March 5 2023. The hackathon will allow students to
+            from 29th February to 2nd March 2024. The hackathon will allow students to
             work on industry-level problems in the domains of Smart Healthcare,
             Applied Machine Learning for Manufacturing Industry, AI & Big Data,
             Computer Vision and Deep Learning, Internet Of Things, Natural

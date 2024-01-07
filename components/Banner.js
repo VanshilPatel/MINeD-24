@@ -39,11 +39,11 @@ export default function CallToActionWithVideo() {
                 zIndex: -1,
               }}
             >
-              MINeD Hackathon 2023
+              MINeD Hackathon 2024
             </Text>
             <br />
             <Text fontSize="2xl" marginTop="4" color={"blue.400"}>
-              From 3<sup>rd</sup> to 5<sup>th</sup> March 2023.
+              From 29<sup>th</sup> February to 2<sup>nd</sup> March 2024.
             </Text>
             <Text as={"span"} fontSize={["lg", "xl"]} fontWeight="black">
               Participate and win exciting prizes up to &#8377;2,30,000+
