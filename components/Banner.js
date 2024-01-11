@@ -46,7 +46,7 @@ export default function CallToActionWithVideo() {
               From 29<sup>th</sup> February to 2<sup>nd</sup> March 2024.
             </Text>
             <Text as={"span"} fontSize={["lg", "xl"]} fontWeight="black">
-              Participate and win exciting prizes up to &#8377;2,30,000+
+              Participate and win exciting prizes
             </Text>
           </Heading>
           <Stack
