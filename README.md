@@ -12,6 +12,8 @@ Live Link : https://www.mined2024.tech/
 ![Home](public/home.png)
 ![Team](public/team.png)
 ![About](public/about.png)
+![Past Sponsors](public/abc.png)
+
 
 
 
