@@ -47,19 +47,6 @@ Start the server
 ```
 
 
-## Features
-
-- Auth and login Functionality
-- Search Functionality
-- Sorting based on status(solved & unsolved) and difficulty
-- Random Question picker
-- Pagination
-- Compile and Submit your code in any one of 6 language listed 
-- Boiler plate code renders when a particular language is chosen
-
-
-
-## Tech Stack
 
  NextJS, ChakraUI
 
